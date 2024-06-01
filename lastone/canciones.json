@@ -1,0 +1,17 @@
+[
+    {
+      "nombre_cancion": "Chaos & Euphoria (Master 1)",
+      "nombre_artista": "ARENCI x GEWOONRAVES",
+      "duracion": "4:32",
+      "imagen": "./audio/tecno.jpg",
+      "ruta_cancion": "./audio/ARENCI x GEWOONRAVES - Chaos & Euphoria (Master 1).wav"
+    },
+    {
+      "nombre_cancion": "Golden Hour (Edit Audio)",
+      "nombre_artista": "JVKE",
+      "duracion": "3:29",
+      "imagen": "./audio/jvke-golden-hour.jpg",
+      "ruta_cancion": "./audio/jvke-golden-hour-[edit-audio]-made-with-Voicemod.mp3"
+    }
+  ]
+  
